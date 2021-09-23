@@ -1,4 +1,4 @@
 module.exports = {
-	database: 'mongodb://https://pensive-poitras-a1b916.netlify.app/:27017/meanauth',
+	database: 'mongodb://user123:12345678@pensive-poitras-a1b916.netlify.app/:27017/meanauth',
 	secret: 'seeks'
 }
